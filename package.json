@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "start": "webpack serve --mode development",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.1",
+    "twigjs-loader": "^1.0.2",
+    "webpack": "4",
+    "webpack-cli": "4",
+    "webpack-dev-server": "^3.11.1"
+  },
+  "dependencies": {
+    "twig": "^1.15.4"
+  }
+}
