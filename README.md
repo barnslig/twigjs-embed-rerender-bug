@@ -1,5 +1,7 @@
 # Twig.js re-render `{% embed %}` bug reproduction
 
+[Issue](https://github.com/twigjs/twig.js/issues/767)
+
 Set this up:
 
 ```
